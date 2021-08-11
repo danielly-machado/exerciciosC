@@ -1,6 +1,6 @@
 # exerciciosC
 
-Pasta com exercícios C
+Pasta com exercícios escritos em linguagem C
 
 Exercícios de Algoritmos
 Prof. Gustavo Guanabara
