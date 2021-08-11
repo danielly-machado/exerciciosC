@@ -1,0 +1,5 @@
+C:\Users\Fernando\Documents\Dany\Linguagem C\Passo 3\Exercício 24 - Situação do aluno.cpp	In function 'int main()':
+7	2	C:\Users\Fernando\Documents\Dany\Linguagem C\Passo 3\Exercício 24 - Situação do aluno.cpp	[Error] expected initializer before 'printf'
+12	2	C:\Users\Fernando\Documents\Dany\Linguagem C\Passo 3\Exercício 24 - Situação do aluno.cpp	[Error] 'media' was not declared in this scope
+15	4	C:\Users\Fernando\Documents\Dany\Linguagem C\Passo 3\Exercício 24 - Situação do aluno.cpp	[Error] 'else' without a previous 'if'
+15	28	C:\Users\Fernando\Documents\Dany\Linguagem C\Passo 3\Exercício 24 - Situação do aluno.cpp	[Error] expected identifier before '(' token
